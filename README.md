@@ -24,4 +24,4 @@ CSS3: For styling purposes including layout, color, fonts, and responsiveness in
 
 JavaScript:This includes functionality like add, check and  delete the item in the bucket list with adding interactivity to the application.
 
-Responsive Design Techniques:Applied CSS Flexbox and Grid for layout management, ensuring this application is pretty and functional on all screen sizes.
+Responsive Design Techniques:Applied CSS Flexbox  for layout management, ensuring this application is pretty and functional on all screen sizes.
