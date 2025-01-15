@@ -2,7 +2,7 @@ Personal_Bucket_list
 
 Responsive Bucket List Webpage
 
-A responsive webpage with functionality for a personal bucket list to add, edit, delete, and reset items. Compatible with desktop or mobile devices so that the page can be perfectly accessed.
+A responsive webpage with functionality for a personal bucket list to add,  delete, and marks completed items. Compatible with desktop or mobile devices so that the page can be perfectly accessed.
 
 Features
 
