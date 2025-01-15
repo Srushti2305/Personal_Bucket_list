@@ -3,8 +3,11 @@ Responsive Bucket List Webpage
 A responsive webpage with functionality for a personal bucket list to add, edit, delete, and reset items. Compatible with desktop or mobile devices so that the page can be perfectly accessed.
 
 Features
+
  Add Items: Add a new item into your bucket list.
+ 
  Edit Items: The text of already existing items will be modified.
+ 
  Delete Items: Eliminate certain items from the list.
  Checkbox for Completion: Marks items as completed using checkboxes.
  Responsive Design: The layout fits perfectly to all screen sizes by using CSS media queries.
