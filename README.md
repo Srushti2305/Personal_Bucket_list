@@ -17,6 +17,7 @@ Features
  Responsive Design: The layout fits perfectly to all screen sizes by using CSS media queries.
  
  Technology used
+ 
 HTML5:Utilized in formatting the contents of the page. It incorporates all the input fields, buttons, and list items.
 
 CSS3: For styling purposes including layout, color, fonts, and responsiveness in media queries.
